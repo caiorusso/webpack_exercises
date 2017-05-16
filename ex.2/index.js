@@ -1,0 +1,1 @@
+require('./duvidaCruel') /** se não houver a referência não é carregado no bundle.js */
